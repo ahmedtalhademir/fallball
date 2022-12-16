@@ -1,1 +1,1 @@
-version_name: five; version_code: vanilla; version_is_important: true; message_tr: ; message_en: some message
+version_name: five; version_code: vanilla; version_is_important: true; message_tr: This is an online test message!; message_en: some message
