@@ -1,1 +1,1 @@
-version_name: six; version_code: vanilla; version_is_important: true; message_tr:; message_en:
+version_name: six; version_code: vanilla; version_is_important: true; message_tr: ; message_en: 
