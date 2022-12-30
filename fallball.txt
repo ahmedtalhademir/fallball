@@ -1,1 +1,1 @@
-version_name: six; version_code: vanilla; version_is_important: true; message_tr: This is an online test message, and it will disappear at 30.12.2022; message_en: This is an online test message, and it will disappear at 30.12.2022
+version_name: six; version_code: vanilla; version_is_important: true; message_tr:; message_en:
