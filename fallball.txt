@@ -1,1 +1,1 @@
-version_name: six; version_code: vanilla; version_is_important: false; message_tr: Incoming update: 07.02.2023; message_en: Incoming update: 07.02.2023
+version_name: six; version_code: vanilla; version_is_important: false; message_tr: Incoming update 07.02.2023; message_en: Incoming update 07.02.2023
