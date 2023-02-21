@@ -1,1 +1,1 @@
-version_name: nine; version_code: vanilla; version_is_important: true; message_tr: Incoming update: 03.03.2023. Stay Tuned! 😊; message_en: Incoming update: 03.03.2023. Stay Tuned! 😊
+version_name: nine; version_code: vanilla; version_is_important: true; message_tr: Incoming update: 03.03.2023 Stay Tuned!; message_en: Incoming update: 03.03.2023 Stay Tuned!
