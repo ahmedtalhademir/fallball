@@ -1,3 +1,3 @@
 version_name: nine; version_code: vanilla; version_is_important: true; message_tr: Upcoming update.
-Stay Tuned! <size=60>•ᴥ•</size>; message_en: Upcoming update.
-Stay Tuned! <size=60>•ᴥ•</size>
+Stay Tuned!  <size=60>ʕ•ᴥ•ʔ</size>; message_en: Upcoming update.
+Stay Tuned!  <size=60>ʕ•ᴥ•ʔ</size>
