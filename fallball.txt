@@ -1,1 +1,1 @@
-version_name: nine; version_code: vanilla; version_is_important: true; message_en: This is a test message for v: a10e7; message_tr: Bu bir test mesajıdır v: 10e7
+version_name: nine; version_code: vanilla; version_is_important: true; message_en: This is a test message for v: a10e7; message_tr: Bu bir test mesajıdır v: a10e7
