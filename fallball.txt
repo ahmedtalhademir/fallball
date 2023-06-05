@@ -1,1 +1,1 @@
-version_name: ten; version_code: cocoa; version_is_important: false; message_en: Update available, version: ten; message_tr: Güncelleme mevcut, versiyon: 10
+version_name: ten; version_code: cocoa; version_is_important: false; message_en: Beta update available, version: ten; message_tr: Beta güncellemesi mevcut, versiyon: 10
