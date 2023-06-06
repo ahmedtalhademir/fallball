@@ -1,1 +1,1 @@
-version_name: eleven; version_code: cocoa; version_is_important: false; message_en: ; message_tr: ; allowapk: false
+version_name: eleven; version_code: cocoa; version_is_important: false; message_en: New version now in beta!; message_tr: Yeni versiyon şimdi betada!; allowapk: false
