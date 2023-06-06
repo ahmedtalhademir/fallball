@@ -1,1 +1,1 @@
-version_name: ten; version_code: cocoa; version_is_important: false; message_en: Beta update available, version: ten; message_tr: Beta güncellemesi mevcut, versiyon: 10; allowapk: true
+version_name: ten; version_code: cocoa; version_is_important: false; message_en: ; message_tr: ; allowapk: true
