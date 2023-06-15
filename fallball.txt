@@ -1,1 +1,1 @@
-version_name: eleven; version_code: cocoa; version_is_important: true; message_en: Like playing Fall Ball? Please rate us! ᵔᴥᵔ; message_tr: Fall Ball'ı sevdiniz mi? Lütfen oylayın! ᵔᴥᵔ; allowapk: true
+version_name: eleven; version_code: cocoa; version_is_important: true; message_en: Like playing Fall Ball? Please rate us! ᵔᴥᵔ; message_tr: Fall Ball'ı sevdiniz mi? Lütfen oylayın! ᵔᴥᵔ; allowapk: false
