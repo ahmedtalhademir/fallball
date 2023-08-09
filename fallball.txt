@@ -1,1 +1,1 @@
-version_name: eleven; version_code: cocoa; version_is_important: true; message_en: IAP's not working due to Unity's service outages!; allowapk:false
+version_name: eleven; version_code: cocoa; version_is_important: true; allowapk:false
