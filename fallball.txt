@@ -1,1 +1,1 @@
-version_name: eleven; version_code: cocoa; version_is_important: false; allowapk: true; message_en: this is a test message for v: a12b5; message_tr: this is a test message for v: a12b5
+version_name: twelve; version_code: raspberry; version_is_important: false; allowapk: false; message_en:  ; message_tr:  
