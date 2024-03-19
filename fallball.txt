@@ -1,1 +1,1 @@
-version_name: eleven; version_code: cocoa; version_is_important: false; allowapk: false
+version_name: eleven; version_code: cocoa; version_is_important: false; allowapk: true
